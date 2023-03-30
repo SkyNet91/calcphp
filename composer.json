@@ -1,0 +1,16 @@
+{
+    "name": "rafac/calcphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SkyNet91",
+            "email": "104870340+SkyNet91@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
